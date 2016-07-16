@@ -12,3 +12,5 @@ EpocElectrodes.JPG: An image showing the exact location of every channel in the 
 Summer School day1.pdf: The intro to brain computer interfaces presentation.
 
 SummerLabTutorial.ipynb: The ipython notebook based on the hands on tutorial of the 2nd day. 
+
+Recordings: EEG recordings of the experiment, for all five subjects. Train includes sessions 1 to 4 and Test session 5.
